@@ -1,3 +1,9 @@
+I am a passionate developer from india from Non-IT domain
+I am currently learning Web technology and software development.
+I am an enthusiastic & quick learner.
+I like Watching and playing cricket.
+I have strong technical and communication skills.
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Somashekar B E) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Somashekar B E ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Somashekar B E) 
