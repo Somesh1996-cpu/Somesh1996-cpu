@@ -1,5 +1,5 @@
 # 💫 About Me:
- I am a passionate developer from India.<br> I am currently learning web-technology and software development.<br> I am an enthusiastic & quick learner. <br> I like watching and playing cricket. <br> I have strong technical and communication skills.
+ I am a passionate developer from India.<br> I am currently learning node js.<br> I am an enthusiastic & quick learner. <br> I like watching and playing cricket. <br> I have strong technical and communication skills.
 
 
 ## 🌐 Socials:
